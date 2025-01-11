@@ -1,0 +1,1 @@
+A simple and elegant sushi-themed website built using HTML and CSS. This project focuses on learning and mastering the basics of web design and styling.
